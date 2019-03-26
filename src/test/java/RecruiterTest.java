@@ -29,4 +29,9 @@ public class RecruiterTest {
     public void hasYearsOfExperience(){
         assertEquals(3, recruiter.getExperience());
     }
+
+    @Test
+    public void canMakeInterview(){
+        assertEquals("Makes interviews", recruiter.makesInterviews());
+    }
 }

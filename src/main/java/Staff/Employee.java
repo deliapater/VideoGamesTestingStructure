@@ -1,5 +1,7 @@
 package Staff;
 
+import Staff.Testing.Platform;
+
 public abstract class Employee {
         private String name;
         private Language spokenLanguage;
@@ -22,5 +24,6 @@ public abstract class Employee {
         public int getExperience() {
             return experience;
         }
-    }
+
+}
 

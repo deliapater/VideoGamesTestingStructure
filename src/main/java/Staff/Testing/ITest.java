@@ -1,5 +1,5 @@
 package Staff.Testing;
 
 public interface ITest {
-    public String test();
+    public String test(String data);
 }

@@ -17,9 +17,6 @@ public class FunctionalityTester extends Employee implements ITest, IGoToStandUp
         return "Is testing project: Alpha" ;
     }
 
-    public String test() {
-        return null;
-    }
 
     public String goToStandUps(String data) {
         return data + " goes to stand ups";

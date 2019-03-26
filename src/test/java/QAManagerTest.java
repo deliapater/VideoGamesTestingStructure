@@ -37,5 +37,11 @@ public class QAManagerTest {
         assertEquals("Monica goes to stand ups", qaManager.goToStandUps("Monica"));
     }
 
+    @Test
+    public void canCreateRota(){
+        qaManager.createsRota("Monica");
+        assertEquals("Monica creates rota", qaManager.createsRota("Monica"));
+    }
+
 }
 

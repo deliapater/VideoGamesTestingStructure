@@ -9,4 +9,8 @@ public class Recruiter extends Employee {
         super(name, spokenLaguage, experience);
     }
 
+    public String makesInterviews(){
+        return "Makes interviews";
+    }
+
 }
