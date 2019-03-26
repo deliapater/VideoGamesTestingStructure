@@ -5,7 +5,7 @@ import Staff.IGoToStandUps;
 import Staff.Language;
 
 
-public class LocalisationTester extends Employee implements ITest, IGoToStandUps {
+public class LocalisationTester extends Employee implements ITest, IGoToStandUps, ITestPlan {
 
     private final Platform platform;
 
@@ -22,8 +22,12 @@ public class LocalisationTester extends Employee implements ITest, IGoToStandUps
         return "Is testing project: " + data;
     }
 
-
     public Platform getPlatform() {
         return platform;
     }
+
+    public String testPlan(String data){
+        return "Is testplanning: " + data;
+    }
+
 }

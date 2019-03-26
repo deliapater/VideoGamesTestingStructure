@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cd5f142-6403-46b7-a051-be2abb990878" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Staff/Management/ICreatesRota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LocalisationTesterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Staff/Testing/ITestPlan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Staff/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Staff/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Staff/Management/QAManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Staff/Management/QAManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Staff/Testing/FunctionalityTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Staff/Testing/FunctionalityTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Staff/Testing/LocalisationTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Staff/Testing/LocalisationTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/QAManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/QAManagerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Staff/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Staff/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Staff/Testing/LocalisationTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Staff/Testing/LocalisationTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LocalisationTesterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LocalisationTesterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Staff/Testing/LocalisationTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LocalisationTesterTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,36 +21,82 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Management/ProjectCoordinator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#587#588#0" expanded="true" />
-                <element signature="e#617#618#0" expanded="true" />
-                <element signature="e#579#580#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Testing/LocalisationTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+            <state relative-caret-position="255">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#203#204#0" expanded="true" />
                 <element signature="e#230#231#0" expanded="true" />
                 <element signature="e#514#515#0" expanded="true" />
                 <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
-                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#694#695#0" expanded="true" />
                 <element signature="e#725#726#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#767#768#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Testing/FunctionalityTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#744#745#0" expanded="true" />
+                <element signature="e#774#775#0" expanded="true" />
+                <element signature="e#843#844#0" expanded="true" />
+                <element signature="e#890#891#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Staff/HR/Recruiter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/RecruiterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="68" selection-start-line="34" selection-start-column="68" selection-end-line="34" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+                <element signature="e#705#706#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Testing/ITestPlan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -61,8 +104,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/LocalisationTesterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="360">
+              <caret line="59" column="59" selection-start-line="59" selection-start-column="59" selection-end-line="59" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#464#465#0" expanded="true" />
@@ -80,17 +123,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Management/QAManager.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/FunctionalityTesterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="20" />
+            <state relative-caret-position="345">
+              <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#474#475#0" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#1316#1317#0" expanded="true" />
+                <element signature="e#1393#1394#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,15 +140,6 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Management/ICreatesRota.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Testing/ITest.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
@@ -115,10 +147,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/QAManagerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Staff/HR/AssitantHR.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="42" column="73" selection-start-line="42" selection-start-column="73" selection-end-line="42" selection-end-column="73" />
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,41 +159,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Language.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Staff/IGoToStandUps.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/FunctionalityTesterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="24" selection-start-line="24" selection-end-line="54" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#546#547#0" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
-                <element signature="e#700#701#0" expanded="true" />
-                <element signature="e#762#763#0" expanded="true" />
-                <element signature="e#814#815#0" expanded="true" />
-                <element signature="e#1316#1317#0" expanded="true" />
-                <element signature="e#1381#1382#0" expanded="true" />
-                <element signature="e#1438#1439#0" expanded="true" />
-                <element signature="e#1468#1469#0" expanded="true" />
-              </folding>
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -193,28 +194,29 @@
         <option value="$PROJECT_DIR$/src/main/java/Language.java" />
         <option value="$PROJECT_DIR$/src/main/java/Staff/HR/Language.java" />
         <option value="$PROJECT_DIR$/src/main/java/Staff/Management/Employee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Staff/HR/Recruiter.java" />
         <option value="$PROJECT_DIR$/src/main/java/Staff/HR/AssitantHR.java" />
         <option value="$PROJECT_DIR$/src/test/java/AssistantHRTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Staff/HR/Manager.java" />
         <option value="$PROJECT_DIR$/src/test/java/ManagerTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/RecruiterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Staff/Management/Project.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Staff/Testing/ITest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Staff/Testing/FunctionalityTesting.java" />
         <option value="$PROJECT_DIR$/src/test/java/FunctionalityTestingTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Staff/Testing/IGoToStandUps.java" />
         <option value="$PROJECT_DIR$/src/main/java/Staff/IGoToStandUps.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Staff/Testing/FunctionalityTester.java" />
         <option value="$PROJECT_DIR$/src/test/java/FunctionalityTesterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Staff/Management/ProjectCoordinator.java" />
         <option value="$PROJECT_DIR$/src/test/java/ProjectCoordinatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Staff/Employee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Staff/Testing/LocalisationTester.java" />
-        <option value="$PROJECT_DIR$/src/test/java/LocalisationTesterTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/QAManagerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Staff/Management/ICreatesRota.java" />
         <option value="$PROJECT_DIR$/src/main/java/Staff/Management/QAManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Staff/Testing/ITest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Staff/HR/Recruiter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RecruiterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LocalisationTesterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Staff/Testing/LocalisationTester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Staff/Testing/FunctionalityTester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Staff/Testing/ITestPlan.java" />
       </list>
     </option>
   </component>
@@ -317,7 +319,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553633666955" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553634957878" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/Staff/Management" />
   </component>
   <component name="RecentsManager">
@@ -337,7 +339,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RecruiterTest.canMakeInterview">
+  <component name="RunManager" selected="JUnit.All in VideoGamesTesting">
     <configuration name="All in VideoGamesTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="VideoGamesTesting" />
       <option name="PACKAGE_NAME" value="" />
@@ -354,11 +356,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProjectCoordinatorTest.hasProject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LocalisationTesterTest.canTestPlan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="VideoGamesTesting" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProjectCoordinatorTest" />
-      <option name="METHOD_NAME" value="hasProject" />
+      <option name="MAIN_CLASS_NAME" value="LocalisationTesterTest" />
+      <option name="METHOD_NAME" value="canTestPlan" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -386,11 +388,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RecruiterTest.canMakeInterview" />
         <item itemvalue="JUnit.All in VideoGamesTesting" />
+        <item itemvalue="JUnit.LocalisationTesterTest.canTestPlan" />
+        <item itemvalue="JUnit.RecruiterTest.canMakeInterview" />
         <item itemvalue="JUnit.QAManagerTest.canCreateRota" />
         <item itemvalue="JUnit.LocalisationTesterTest" />
-        <item itemvalue="JUnit.ProjectCoordinatorTest.hasProject" />
       </list>
     </recent_temporary>
   </component>
@@ -408,21 +410,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FunctionalityTesterTest_hasPlatform - 2019.03.26 at 20h 16m 49s.xml">
-      <configuration name="FunctionalityTesterTest.hasPlatform" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FunctionalityTesterTest_hasProject - 2019.03.26 at 20h 17m 34s.xml">
-      <configuration name="FunctionalityTesterTest.hasProject" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProjectCoordinatorTest_hasProject - 2019.03.26 at 20h 20m 17s.xml">
-      <configuration name="ProjectCoordinatorTest.hasProject" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProjectCoordinatorTest_hasProject - 2019.03.26 at 20h 20m 28s.xml">
-      <configuration name="ProjectCoordinatorTest.hasProject" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LocalisationTesterTest - 2019.03.26 at 20h 35m 16s.xml">
-      <configuration name="LocalisationTesterTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LocalisationTesterTest - 2019.03.26 at 20h 35m 52s.xml">
       <configuration name="LocalisationTesterTest" configurationId="JUnit" />
     </history-entry>
@@ -438,9 +425,25 @@
     <history-entry file="All_in_VideoGamesTesting - 2019.03.26 at 20h 40m 43s.xml">
       <configuration name="All in VideoGamesTesting" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="QAManagerTest_canCreateRota - 2019.03.26 at 20h 51m 22s.xml">
+      <configuration name="QAManagerTest.canCreateRota" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_VideoGamesTesting - 2019.03.26 at 20h 52m 02s.xml">
+      <configuration name="All in VideoGamesTesting" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RecruiterTest_canMakeInterview - 2019.03.26 at 20h 54m 32s.xml">
+      <configuration name="RecruiterTest.canMakeInterview" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LocalisationTesterTest_canTestPlan - 2019.03.26 at 21h 11m 32s.xml">
+      <configuration name="LocalisationTesterTest.canTestPlan" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_VideoGamesTesting - 2019.03.26 at 21h 15m 11s.xml">
+      <configuration name="All in VideoGamesTesting" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -452,10 +455,10 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -517,18 +520,6 @@
             <element signature="e#600#601#0" expanded="true" />
             <element signature="e#638#639#0" expanded="true" />
             <element signature="e#679#680#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Staff/HR/Recruiter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -600,39 +591,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Staff/IGoToStandUps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RecruiterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Staff/HR/AssitantHR.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ProjectCoordinatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -651,25 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Testing/FunctionalityTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Language.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -677,67 +616,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/FunctionalityTesterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="24" selection-start-line="24" selection-end-line="54" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-            <element signature="e#1316#1317#0" expanded="true" />
-            <element signature="e#1381#1382#0" expanded="true" />
-            <element signature="e#1438#1439#0" expanded="true" />
-            <element signature="e#1468#1469#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Testing/LocalisationTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LocalisationTesterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#790#791#0" expanded="true" />
-            <element signature="e#857#858#0" expanded="true" />
-            <element signature="e#1259#1260#0" expanded="true" />
-            <element signature="e#1337#1338#0" expanded="true" />
-            <element signature="e#1437#1438#0" expanded="true" />
-            <element signature="e#1493#1494#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -765,7 +647,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Management/QAManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Testing/ITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Staff/IGoToStandUps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
@@ -774,22 +677,121 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Management/ICreatesRota.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Management/QAManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Staff/HR/AssitantHR.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="20" />
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Staff/HR/Recruiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RecruiterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="68" selection-start-line="34" selection-start-column="68" selection-end-line="34" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FunctionalityTesterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1316#1317#0" expanded="true" />
+            <element signature="e#1393#1394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LocalisationTesterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="59" column="59" selection-start-line="59" selection-start-column="59" selection-end-line="59" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#1259#1260#0" expanded="true" />
+            <element signature="e#1337#1338#0" expanded="true" />
+            <element signature="e#1437#1438#0" expanded="true" />
+            <element signature="e#1493#1494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Testing/LocalisationTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Testing/FunctionalityTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Staff/Testing/ITestPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

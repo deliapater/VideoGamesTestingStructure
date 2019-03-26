@@ -54,5 +54,10 @@ public class LocalisationTesterTest {
         assertEquals("TRES", project.getName());
     }
 
+    @Test
+    public void canTestPlan(){
+        localisationTester.testPlan("TRES");
+        assertEquals("Is testplanning: TRES", localisationTester.testPlan("TRES"));
+    }
 
 }
